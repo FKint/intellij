@@ -1,3 +1,6 @@
+# Fork instructions
+`bazel build //ijwb:ijwb_bazel_zip --define=ij_product=intellij-2020.3`
+
 # An IntelliJ plugin for [Bazel](http://bazel.build) projects
 
 This is an early-access version of our Bazel plugins for IntelliJ,
